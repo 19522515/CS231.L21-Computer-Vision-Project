@@ -20,3 +20,4 @@ for angle in range(360):
     cv2.line(img, center, (int(tip_x), int(tip_y)), white, thickness)
     cv2.imshow('img', img)
     cv2.waitKey(1)
+cv2.destroyAllWindows()
