@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('C:\\Users\\LocLinh\\Desktop\\CS321_ThiGiac\\saitama.png')
+img = cv2.imread('saitama.jpg')
 
 width = img.shape[1]
 height = img.shape[0]
