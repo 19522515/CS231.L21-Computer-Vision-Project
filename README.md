@@ -14,7 +14,7 @@
 | STT |   MSSV   |   Vai Trò   |      Họ và Tên      |          Email         |
 |:---:|:--------:|:-----------:|:-------------------:|:----------------------:|
 | 1   | 19521754 | Nhóm trưởng | Nguyễn Lộc Linh     | 19521754@gm.uit.edu.vn |
-| 2   | 19522515 | Thành viên  | Trương Minh Tuấn    | 19522515@gm.uit.edu.vn |
+| 2   | 19522515 | Thành viên  | Lê Dương Khánh Việt    | 19522515@gm.uit.edu.vn |
 | 3   | 19522102 | Thành viên  | Trần Duy Quang      | 19522102@gm.uit.edu.vn |
 # CHỦ ĐỀ SEMINAR
 Đồ án Powerpoint animation
