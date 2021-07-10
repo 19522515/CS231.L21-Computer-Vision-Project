@@ -1,10 +1,9 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('saitama.jpg')
+img = cv2.imread('images/saitama.jpg')
 hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)  # convert it to hsv
-# cv2.imshow('animation', img)
-# cv2.waitKey(100)
+
 
 width = img.shape[1]
 height = img.shape[0]

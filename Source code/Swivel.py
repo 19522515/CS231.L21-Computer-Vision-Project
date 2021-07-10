@@ -20,7 +20,7 @@ def MaximizeSize(img0,size,flipHorizontal):
         cv2.waitKey(1)
 
 
-originalImage = cv2.imread('Captain.jpg')
+originalImage = cv2.imread('images/Captain.jpg')
 flipHorizontal = cv2.flip(originalImage, 1)
 img0 = np.zeros((originalImage.shape[0],originalImage.shape[1]+100,3), np.uint8)
 size = originalImage.shape[1]

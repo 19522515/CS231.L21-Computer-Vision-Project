@@ -47,7 +47,7 @@ def Animation(temp,X4,X2,X0,animation,img):
         cv2.imshow("Animation",animation)
         cv2.waitKey(1)
 
-img = cv2.imread('Captain.jpg')
+img = cv2.imread('images/Captain.jpg')
 height, weight = img.shape[0], img.shape[1]
 animation = np.zeros((height, weight,3), np.uint8)
 X2 = -1/3*weight

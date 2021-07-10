@@ -26,7 +26,7 @@ def CreateImg():
     cv2.putText(img,'Nguyen Loc Linh - 19521754',(350,220), font_normal, 0.5,(255,255,255),1,cv2.LINE_AA)
     cv2.putText(img,'Le Duong Khanh Viet - 19522515',(325,280), font_normal, 0.5,(255,255,255),1,cv2.LINE_AA)
     cv2.putText(img,'Tran Duy Quang - 19522102',(350,340), font_normal, 0.5,(255,255,255),1,cv2.LINE_AA)
-    meme = cv2.imread('Meme.jpg') #recommend file Meme.jpg on github
+    meme = cv2.imread('images/Meme.jpg') #recommend file Meme.jpg on github
     img[450:450+meme.shape[0],370:370+meme.shape[1]]=meme[:,:]
     return img, 600, 800
 
