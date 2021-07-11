@@ -1,0 +1,12 @@
+Hướng dẫn setup để có thể chạy được mã nguồn
+
+Bước 1: Tải anaconda ở trang https://www.anaconda.com/products/individual#Downloads     
+Bước 2: Sau khì tải anaconda, hãy tiến hành cài đặt anaconda 
+Bước 3: Bấm vào icon Search, sau đó nhập: anaconda prompt ( Run as administrator )
+Bước 4: Cài đặt thư viện cv2, numpy bằng lệnh:
+	conda install -c conda-forge opencv
+ 	conda install numpy
+Bước 5: Mở anaconda navigator, bấm vào nút Launch ở VS Code
+Bước 6: Mở thư mục folder chứa soure code python, hoặc tải về từ link github của nhóm mình:
+						https://github.com/19522515/CS231.L21-Computer-Vision-Project
+Bước 7: Bấm chuột phải vào file .py, chọn dòng: Run Python File in Terminal hoặc gõ lệnh trên terminal: python + tên file
